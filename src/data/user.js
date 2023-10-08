@@ -8,7 +8,7 @@ const INFO = {
 	},
 
 	socials: {
-		linkedin: "linkedin.com/in/zixuan-chen-60a956276",
+		linkedin: "https://linkedin.com/in/zixuan-chen-60a956276",
 		github: "https://github.com/",
 		Blogger: "https://www.blogger.com/blog/posts/6927268687826760659",
 		stackoverflow: "https://stackoverflow.com/",
