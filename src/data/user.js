@@ -2,8 +2,9 @@ const INFO = {
 	main: {
 		title: "Reactfolio by Keven Chen",
 		name: "Keven Chen",
-		email: "mail@Keven Chen",
+		email: "chihingc@gmail.com",
 		logo: "../logo.png",
+    phoneNumber: "0123456789"
 	},
 
 	socials: {
