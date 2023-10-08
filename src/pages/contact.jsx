@@ -51,6 +51,9 @@ const Contact = () => {
 							&nbsp;{" "}
 							<a href={`mailto:${INFO.main.email}`}>
 								{INFO.main.email}
+							</a> or my phone number &nbsp;{" "}
+              <a href={`mailto:${INFO.main.phoneNumber}`}>
+								{INFO.main.phoneNumber}
 							</a>
 							. I make an effort to respond to all messages within
 							24 hours, although it may take me longer during busy
